@@ -1,0 +1,6 @@
+@PREFINALS_AUTH_Espinas_Annielyn_HostAddress = http://localhost:5288
+
+GET {{PREFINALS_AUTH_Espinas_Annielyn_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
